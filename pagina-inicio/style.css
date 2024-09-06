@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+
+h1{
+    font-family: 'Playfair Display', serif;
+    color: #fffff0 ;
+}
+#header{
+    background-color: #3a3b3c;
+
+    position: sticky;
+top: 0;
+}
+body{
+    background-color: #3a3b3c;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+#titulo{
+    background-color: #3a3b3c;
+    width: 50%;
+    text-align: center;
+    margin: 0 auto;
+    top: 0
+
+}
+img{
+    height: 500px;
+    width: 100%;
+    object-fit: cover;
+    display: block;
+    
+}
+
+nav{
+   
+    background-color: #3e4348;
+    text-align: center;
+    padding: 10px;
+
+
+}
+a{
+    text-decoration: none;
+    color: #fffff0;
+    letter-spacing: 0.18em;
+
+}
+.nav1{
+    padding-right: 20px;
+}
+.nav1:hover{
+    color: #ecbb2b ;
+}
+#footer1 {
+    text-align: center;
+
+}
+#parrafo1{
+    font-size: larger;
+    padding-left: 6px;
+    color: #fffff0;
+    max-width: 80ch;
+    background-color:#3e4348;    
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 20px;
+    border-radius: 7px;
+
+}
+
+hr{
+    background-color: #ecbb2b;
+    border: 1.5px solid #ecbb2b;
+    
+}
+
+footer p{
+    color: #fffff0;
+}
+#inputBuscar{
+    font-family: 'playfair display';
+    width: 300px;
+    margin-bottom: 10px;
+    height: 50px;
+    background: #2b303b;
+    border: none;
+    font-size: 10pt;
+    margin-top: 0px;
+    color: #fffff0;
+    padding-left: 45px;
+    border-radius: 5px;
+}
+
+h1:hover{
+    color: #ecbb2b;
+}
+
+.btn {
+
+    border: none; 
+  
+    color: white; 
+  
+    padding: 14px 28px; 
+  
+    cursor: pointer; 
+  
+    border-radius: 5px; 
+  
+  }
+   .buscar {background-color: #3e4348;} 
+.buscar:hover {background: #ecbb2b;}
+
+#pDiseño{
+    font-size: 15px;
+    color: #fffff0;
+    
+}
